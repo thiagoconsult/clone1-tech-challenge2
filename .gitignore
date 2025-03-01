@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+
+# Configurações de ambiente
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+
+# Arquivos temporários e de cache
+.cache/
+tmp/
+coverage/
+
+# IDEs e sistemas operacionais
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Chaves privadas e certificados
+*.pem
+*.key
